@@ -67,7 +67,8 @@ twitter-clone/
 La documentación interactiva de la API está disponible en:
 [http://localhost:8080/swagger-ui/index.html](http://localhost:8080/swagger-ui/index.html)
 
-![Swagger UI](docs/swagger-screenshot.png)
+<img width="1906" height="901" alt="image" src="https://github.com/user-attachments/assets/29313f8a-6893-4943-91ba-299947989063" />
+
 
 ---
 
@@ -135,7 +136,6 @@ npm run dev
 
 **Video Demo:** [https://youtu.be/MmWgk5AZKlw](https://youtu.be/MmWgk5AZKlw)
 
-![App Screenshot](docs/app-screenshot.png)
 
 ---
 
