@@ -1,6 +1,4 @@
-# Samuel Antonio Gil Romero 
-# TDSE - Transformación Digital y Soluciones Empresariales 
-# Escuela Colombiana de Ingeniería Julio Garavito 
+
 # Twitter Clone
 
 
