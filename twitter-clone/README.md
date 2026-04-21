@@ -155,3 +155,7 @@ El proyecto incluye pruebas unitarias e de integración con JUnit 5 y Mockito, v
 cd backend/monolith
 mvn test
 ```
+
+- Samuel Antonio Gil Romero 
+- TDSE - Transformación Digital y Soluciones Empresariales 
+- Escuela Colombiana de Ingeniería Julio Garavito 
